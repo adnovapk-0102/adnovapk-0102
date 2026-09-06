@@ -41,7 +41,7 @@ I am a passionate developer and digital strategist from Pakistan. I specialize i
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnovapk-0102&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&text_color=ffffff&icon_color=4285F4" alt="Taha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adnovapk-0102&show_icons=true&theme=radical" alt="Taha's GitHub Stats" />
 </p>
 
 ---
