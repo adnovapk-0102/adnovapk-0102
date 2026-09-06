@@ -39,7 +39,7 @@ I am a passionate Developer and Digital Strategist focused on building productio
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnovapk-0102&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnovapk-0102&layout=compact&theme=radical&hide_border=true&langs_count=5" alt="Top Languages" />
 </p>
 
 ---
