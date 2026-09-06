@@ -1,59 +1,51 @@
-# Hi there, I'm Taha Bilal 👋
-
-### 🚀 Python Developer | AI Enthusiast | SaaS Builder
-
-I am a passionate developer and digital strategist from Pakistan. I specialize in building AI-powered tools using Python and Streamlit, alongside managing successful affiliate marketing and SEO campaigns. I love turning complex problems into simple, beautiful, and intuitive software solutions.
-
----
-
-### 👨‍💻 What I'm Doing
-
-- 🔭 **Currently Building:** [AI-Powered Resume Intelligence](https://github.com/adnovapk-0102/AI-Resume-ATS-Analyzer) - An enterprise-grade ATS analyzer and career suite built with Python and Gemini AI.
-- 🌱 **Currently Learning:** Advanced AI integrations, prompt engineering, and scalable SaaS architecture.
-- 💼 **Digital Strategy:** Managing niche Pinterest brands (Nova Lifestyle) and driving organic traffic for Amazon & AliExpress affiliate programs.
-- 💬 **Ask me about:** Python, Streamlit, AI Agents, and Organic Marketing.
-- 📫 **How to reach me:** [adnova.pk@gmail.com]
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/SEO_&_Marketing-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Affiliate Marketing" />
+<h1 align="center">Hi there, I'm Taha Bilal 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adnovapk-0102&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Building_SaaS_&_AI_Tools-success?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Python_%7C_Streamlit_%7C_Gemini_AI-blue?style=flat-square" alt="Focus" />
 </p>
 
 ---
 
-### 🌟 Featured Project
-
-**[AI-Powered Resume Intelligence](https://github.com/adnovapk-0102/AI-Resume-ATS-Analyzer)**  
-*An all-in-one career suite that acts as an ATS Simulator, Auto-Resume Builder, and Interview Coach.*
-- **Tech:** Python, Streamlit, Google GenAI SDK.
-- **Features:** Core Diagnostics, Markdown Auto-Resume Builder, Skill Gaps Analysis, Outreach Emails, and Regional Localization.
+### 💼 About Me
+I am a passionate Developer and Digital Strategist focused on building production-ready AI applications, automated workflows, and modern SaaS products. I bridge the gap between advanced artificial intelligence (Google GenAI) and intuitive user experiences (Streamlit).
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Enterprise Project
+**[AI-Powered Resume Intelligence](https://github.com/adnovapk-0102/resume-ats-analyzer)**  
+*An all-in-one elite career suite and ATS simulator.*
+- **Core Engine:** Python, Pydantic Structured Outputs, Google Gemini Flash API.
+- **Key Capabilities:** Multi-dimensional ATS scoring, automated Markdown resume restructuring, localization engine (US/Europe/Gulf), AI mock interview prep, and cold outreach generator.
 
-![Taha's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=adnovapk-0102&theme=radical&hide_border=true)
 ---
-<p align="center"><i>"Building the future, one line of code at a time."</i></p>
-<!--
-**adnovapk-0102/adnovapk-0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Arsenal
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO_%26_Growth-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnovapk-0102&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnovapk-0102&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [www.linkedin.com/in/taha-bilal-60934b431]
+- **Email:** [adnova.pk@gmail.com]
+
+<p align="center"><i>"Simplicity is the soul of efficiency."</i></p>
