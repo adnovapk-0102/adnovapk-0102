@@ -38,9 +38,10 @@ I am a passionate Developer and Digital Strategist focused on building productio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnovapk-0102&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnovapk-0102&layout=compact&theme=radical&hide_border=true&langs_count=5" alt="Top Languages" />
-</p>
+### 💻 Languages & Frameworks
+- **Primary Language:** Python
+- **Frameworks & Tools:** Streamlit, Google GenAI SDK, Git, Markdown
+- **Domain Focus:** AI Application Development, SaaS Architecture, & Web Automation
 
 ---
 
